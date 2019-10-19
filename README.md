@@ -8,3 +8,4 @@
 ## References
 * [pyopenvr](https://github.com/cmbruns/pyopenvr)
 * [vive_tracker](https://github.com/moon-wreckers/vive_tracker)
+* [ViveTrackerUtilities](https://github.com/sergiobd/ViveTrackerUtilities)
